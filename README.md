@@ -1,5 +1,6 @@
 Image Authentication with GAN Project
-This project focuses on utilizing Generative Adversarial Networks (GANs) for image authentication. GANs are a class of machine learning frameworks used in unsupervised learning. In this specific application, GANs are used to distinguish between authentic and fake images.
+This project focuses on utilizing Generative Adversarial Networks (GANs) for image authentication. 
+GANs are a class of machine learning frameworks used in unsupervised learning. In this specific application, GANs are used to distinguish between authentic and fake images.
 
 Overview
 Image authentication is crucial in various fields such as forensics, security, and media manipulation detection. With the advent of deep learning techniques like GANs, the process of creating realistic fake images has become increasingly sophisticated. This project aims to develop a system that can effectively differentiate between authentic and manipulated images.
